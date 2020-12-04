@@ -1,0 +1,52 @@
+.sec01-con{
+    width: 100%;
+    height: 749px;
+    background: blue;
+}
+
+/* sec01 end */
+
+/* sec even start */
+
+.sec-even-con1{
+    width: 100%;
+    height: 252px;
+    background: red;
+}
+.sec-even-con2{
+    width: 100%;
+    height: 252px;
+    background: yellow;
+}
+
+
+/* sec even end */
+
+/* sec odd start */
+
+.sec-odd-con1{
+    width: 100%;
+    height: 252px;
+    background: green;
+}
+.sec-odd-con2{
+    width: 100%;
+    height: 252px;
+    background: blue;
+}
+
+/* sec odd end */
+
+
+/* sec02 start */
+
+
+/* sec02 end */
+
+/* sec03 start */
+
+/* sec03 end */
+
+/* sec04 start */
+
+/* sec04 end */

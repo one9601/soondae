@@ -21,25 +21,45 @@ jQuery(document).ready(function(){
 jQuery(document).ready(function(){
     jQuery(".submenu-title-1").click(function(){
         jQuery(".submenu_box-1").slideToggle();
+        jQuery(".submenu_box-2").hide();
+        jQuery(".submenu_box-3").hide();
+        jQuery(".submenu_box-4").hide();
+        jQuery(".submenu_box-5").hide();
     });
 });
 jQuery(document).ready(function(){
     jQuery(".submenu-title-2").click(function(){
         jQuery(".submenu_box-2").slideToggle();
+        jQuery(".submenu_box-1").hide();
+        jQuery(".submenu_box-3").hide();
+        jQuery(".submenu_box-4").hide();
+        jQuery(".submenu_box-5").hide();
     });
 });
 jQuery(document).ready(function(){
     jQuery(".submenu-title-3").click(function(){
         jQuery(".submenu_box-3").slideToggle();
+        jQuery(".submenu_box-1").hide();
+        jQuery(".submenu_box-2").hide();
+        jQuery(".submenu_box-4").hide();
+        jQuery(".submenu_box-5").hide();
     });
 });
 jQuery(document).ready(function(){
     jQuery(".submenu-title-4").click(function(){
         jQuery(".submenu_box-4").slideToggle();
+        jQuery(".submenu_box-1").hide();
+        jQuery(".submenu_box-3").hide();
+        jQuery(".submenu_box-2").hide();
+        jQuery(".submenu_box-5").hide();
     });
 });
 jQuery(document).ready(function(){
     jQuery(".submenu-title-5").click(function(){
         jQuery(".submenu_box-5").slideToggle();
+        jQuery(".submenu_box-1").hide();
+        jQuery(".submenu_box-3").hide();
+        jQuery(".submenu_box-4").hide();
+        jQuery(".submenu_box-2").hide();
     });
 });

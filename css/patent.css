@@ -1,0 +1,23 @@
+.sec01-con1{
+    width: 100%;
+    height: 1005px;
+    background: blueviolet;
+}
+.sec01-con2{
+    width: 60%;
+    margin: 0 auto;
+    height: 266px;
+    background: brown;
+}
+
+/* section01 end */
+
+
+/* section02 start */
+
+.sec03-con{
+    width: 247px;
+    height: 350px;
+}
+
+/* section02 end */
